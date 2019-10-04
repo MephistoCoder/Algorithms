@@ -15,6 +15,6 @@ public class Main {
         } catch (IOException e) {
             System.err.println(e);
         }
-
+        System.out.println("Sorting successful ");
     }
 }
