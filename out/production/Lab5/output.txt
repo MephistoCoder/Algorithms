@@ -1,0 +1,254 @@
+Результаты сортировок: 
+
+Массив случайных чисел длинной в 10:
+class com.company.sorts.HeapSort: 
+Перестановок: 126
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 63
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 185
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 58
+Сравнений: 0
+Время выполнения: 0
+
+Массив возрастающих чисел длинной в 10:
+class com.company.sorts.HeapSort: 
+Перестановок: 129
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 27
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 185
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 42
+Сравнений: 0
+Время выполнения: 0
+
+Массив спадающих чисел длинной в 10:
+class com.company.sorts.HeapSort: 
+Перестановок: 107
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 117
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 185
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 61
+Сравнений: 0
+Время выполнения: 0
+
+Массив случайных чисел длинной в 100:
+class com.company.sorts.HeapSort: 
+Перестановок: 2188
+Сравнений: 0
+Время выполнения: 1
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 5425
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 11541
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 909
+Сравнений: 0
+Время выполнения: 0
+
+Массив возрастающих чисел длинной в 100:
+class com.company.sorts.HeapSort: 
+Перестановок: 2323
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 297
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 11541
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 441
+Сравнений: 0
+Время выполнения: 0
+
+Массив спадающих чисел длинной в 100:
+class com.company.sorts.HeapSort: 
+Перестановок: 2006
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 10197
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 11541
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.QuickSort: 
+Перестановок: 588
+Сравнений: 0
+Время выполнения: 0
+
+Массив случайных чисел длинной в 1000:
+class com.company.sorts.HeapSort: 
+Перестановок: 31684
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 510361
+Сравнений: 0
+Время выполнения: 3
+
+class com.company.sorts.MergeSort: 
+Перестановок: 1021949
+Сравнений: 0
+Время выполнения: 2
+
+class com.company.sorts.QuickSort: 
+Перестановок: 11674
+Сравнений: 0
+Время выполнения: 0
+
+Массив возрастающих чисел длинной в 1000:
+class com.company.sorts.HeapSort: 
+Перестановок: 33225
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 2997
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 1021949
+Сравнений: 0
+Время выполнения: 7
+
+class com.company.sorts.QuickSort: 
+Перестановок: 3577
+Сравнений: 0
+Время выполнения: 0
+
+Массив спадающих чисел длинной в 1000:
+class com.company.sorts.HeapSort: 
+Перестановок: 29619
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 1001997
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 1021949
+Сравнений: 0
+Время выполнения: 3
+
+class com.company.sorts.QuickSort: 
+Перестановок: 5074
+Сравнений: 0
+Время выполнения: 0
+
+Массив случайных чисел длинной в 10000:
+class com.company.sorts.HeapSort: 
+Перестановок: 415847
+Сравнений: 0
+Время выполнения: 2
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 50453251
+Сравнений: 0
+Время выполнения: 18
+
+class com.company.sorts.MergeSort: 
+Перестановок: 100287229
+Сравнений: 0
+Время выполнения: 127
+
+class com.company.sorts.QuickSort: 
+Перестановок: 139009
+Сравнений: 0
+Время выполнения: 1
+
+Массив возрастающих чисел длинной в 10000:
+class com.company.sorts.HeapSort: 
+Перестановок: 436196
+Сравнений: 0
+Время выполнения: 1
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 29997
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.MergeSort: 
+Перестановок: 100287229
+Сравнений: 0
+Время выполнения: 119
+
+class com.company.sorts.QuickSort: 
+Перестановок: 41328
+Сравнений: 0
+Время выполнения: 0
+
+Массив спадающих чисел длинной в 10000:
+class com.company.sorts.HeapSort: 
+Перестановок: 396748
+Сравнений: 0
+Время выполнения: 0
+
+class com.company.sorts.InsertionSort: 
+Перестановок: 100019997
+Сравнений: 0
+Время выполнения: 35
+
+class com.company.sorts.MergeSort: 
+Перестановок: 100287229
+Сравнений: 0
+Время выполнения: 74
+
+class com.company.sorts.QuickSort: 
+Перестановок: 56332
+Сравнений: 0
+Время выполнения: 0
+
