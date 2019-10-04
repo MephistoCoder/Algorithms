@@ -29,6 +29,7 @@ public class HeapSort extends Sort{
             //... и перестравиваем сортирующее дерево
             //для неотсортированной части массива
             N = N - 1;
+            evaluates++;
             downHeap(arr, 1, N);
 
         } while (N > 1); //До последнего элемента
@@ -40,10 +41,9 @@ public class HeapSort extends Sort{
         //В корне поддерева
         //запоминаем родителя
         int T = a[k - 1];
-        moves++;
         //Смотрим потомков в пределах ветки
         while (k <= N / 2) {
-            moves++;
+            evaluates += 2;
             int j = k + k;//Левый потомок
 
             //Если есть правый потомок,
@@ -58,7 +58,7 @@ public class HeapSort extends Sort{
                 break;
 
             } else { //Если родитель меньше наибольшего потомка...
-                moves += 2;
+                moves++;
                 //... то потомок становится на место родителя
                 a[k - 1] = a[j - 1];
                 k = j;

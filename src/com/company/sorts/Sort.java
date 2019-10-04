@@ -17,4 +17,3 @@ public abstract class Sort {
         return time;
     }
 }
-

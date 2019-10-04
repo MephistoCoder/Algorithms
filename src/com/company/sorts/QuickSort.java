@@ -18,7 +18,6 @@ public class QuickSort extends Sort{
             return;//завершить выполнение если уже нечего делить
         }
         // выбрать опорный элемент
-        moves += 2;
         int middle = low + (high - low) / 2;
         int opora = array[middle];
 
@@ -26,14 +25,17 @@ public class QuickSort extends Sort{
         int i = low, j = high;
         while (i <= j) {
             while (array[i] < opora) {
+                evaluates++;
                 i++;
             }
 
             while (array[j] > opora) {
+                evaluates++;
                 j--;
             }
 
             if (i <= j) {//меняем местами
+                evaluates++;
                 int temp = array[i];
                 array[i] = array[j];
                 array[j] = temp;

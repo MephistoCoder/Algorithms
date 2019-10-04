@@ -16,10 +16,10 @@ public class InsertionSort extends Sort{
         for (int i = 1; i < array.length; i++) {
             key = array[i];
             int j = i - 1;
-            moves++;
             while (j >= 0 && array[j] > key) {
+                evaluates++;
                 array[j + 1] = array[j];
-                j = j - 1;
+                j -= 1;
                 moves++;
             }
             array[j + 1] = key;
